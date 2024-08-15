@@ -1,7 +1,7 @@
 ## Olá, bem-vindo(a) ao meu Github !
 
 ## Sobre mim 
-Sou estudante de Ciência da Computação, e desenvolvedora BackEnd Júnior  . Além de  apaixonada e dedicada ao  mundo da tecnologia, constantemente me esforço para entregar soluções de software de alta qualidade. Sou especialista em uma ampla gama de tecnologias e frameworks, tornando-me versátil e capaz de lidar com vários aspectos do desenvolvimento de software.
+Sou estudante de Ciência da Computação, e desenvolvedora BackEnd   . Além de  apaixonada e dedicada ao  mundo da tecnologia, constantemente me esforço para entregar soluções de software de alta qualidade. Sou especialista em uma ampla gama de tecnologias e frameworks, tornando-me versátil e capaz de lidar com vários aspectos do desenvolvimento de software.
 
 ## Hard Skills
 ### Backend 
